@@ -1,0 +1,8 @@
+{
+  "name": "EMCY",
+  "description": "Aplikasi Monitoring dan Maintenance Sarana Prasarana Kampus",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
